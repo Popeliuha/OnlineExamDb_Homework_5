@@ -1,0 +1,17 @@
+D:\Academy\Oce\Oce\bin\Debug\Oce.exe.config
+D:\Academy\Oce\Oce\bin\Debug\Oce.exe
+D:\Academy\Oce\Oce\bin\Debug\Oce.pdb
+D:\Academy\Oce\Oce\bin\Debug\EntityFramework.dll
+D:\Academy\Oce\Oce\bin\Debug\EntityFramework.SqlServer.dll
+D:\Academy\Oce\Oce\bin\Debug\EntityFramework.xml
+D:\Academy\Oce\Oce\bin\Debug\EntityFramework.SqlServer.xml
+D:\Academy\Oce\Oce\obj\Debug\Oce.csprojAssemblyReference.cache
+D:\Academy\Oce\Oce\obj\Debug\Oce.Form1.resources
+D:\Academy\Oce\Oce\obj\Debug\Oce.Properties.Resources.resources
+D:\Academy\Oce\Oce\obj\Debug\Oce.csproj.GenerateResource.cache
+D:\Academy\Oce\Oce\obj\Debug\Oce.csproj.CoreCompileInputs.cache
+D:\Academy\Oce\Oce\obj\Debug\Oce.csproj.CopyComplete
+D:\Academy\Oce\Oce\obj\Debug\Oce.exe
+D:\Academy\Oce\Oce\obj\Debug\Oce.pdb
+D:\Academy\Oce\Oce\bin\Debug\Newtonsoft.Json.dll
+D:\Academy\Oce\Oce\bin\Debug\Newtonsoft.Json.xml

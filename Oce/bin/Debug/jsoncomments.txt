@@ -1,0 +1,3 @@
+[{"CommentText":"First comment","CreationDateTime":"2011-07-25T00:00:00","ExerciseId":2,"Raiting":5,"UserId":1,"UserName":"Vitiia"},
+{"CommentText":"Second comment","CreationDateTime":"2015-02-20T00:00:00","ExerciseId":2,"Raiting":4,"UserId":2,"UserName":"Misha"},
+{"CommentText":"Third comment","CreationDateTime":"2018-01-01T00:00:00","ExerciseId":2,"Raiting":5,"UserId":3,"UserName":"Inna"}]
