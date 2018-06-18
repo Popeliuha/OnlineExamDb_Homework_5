@@ -64,7 +64,7 @@ namespace Oce
                 }
                 MessageBox.Show("List is converted to database!");
             }
-            //TO
+            
             public void RemoveCodeFromDb(List<Comments> values)
             {
                 using (var db = new Model1())
@@ -87,6 +87,16 @@ namespace Oce
         private void button3_Click(object sender, EventArgs e)
         {
             converter.RemoveCodeFromDb(comList);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            using (var ctx = new Model1())
+            {
+                string command = "RESTORE DATABASE AdventureWorks2012 FROM DISK = 'C:/Program Files/Microsoft SQL Server/MSSQL14.SQLEXPRESS/MSSQL/Backup/TestDb.bak'; ";
+                ctx.Database.ExecuteSqlCommandAsync(command);
+            }
+            MessageBox.Show("Database is restored from backup!");
         }
     }
 }
